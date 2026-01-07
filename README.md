@@ -271,27 +271,8 @@ python beast_scanner.py --target https://example.com
 
 ## 📸 Screenshots
 
-<div align="center">
+<img width="1397" height="918" alt="image" src="https://github.com/user-attachments/assets/3178a992-2f33-4397-b75b-810c2230ef76" />
 
-### 🏠 Dashboard View
-![Dashboard](screenshots/dashboard.png)
-*Real-time vulnerability statistics with interactive charts*
-
-### 🎯 Scanner Configuration
-![Scanner](screenshots/scanner.png)
-*Comprehensive scan options and advanced settings*
-
-### 📋 Results View
-![Results](screenshots/results.png)
-*Detailed vulnerability findings with filtering options*
-
-### 💻 Console Output
-![Console](screenshots/console.png)
-*Live scan progress and detailed logging*
-
-### ⚙️ Settings Panel
-![Settings](screenshots/settings.png)
-*Customizable scanner configuration*
 
 </div>
 
@@ -435,30 +416,6 @@ beast-scanner/
 
 ---
 
-## 🗺️ Roadmap
-
-### Version 2.1 (Upcoming)
-- [ ] API scanning support
-- [ ] GraphQL vulnerability testing
-- [ ] JWT token analysis
-- [ ] Subdomain enumeration
-- [ ] WAF detection and bypass
-
-### Version 2.2 (Planned)
-- [ ] Automated exploitation
-- [ ] Custom scripting engine
-- [ ] Plugin system
-- [ ] Cloud deployment option
-- [ ] Team collaboration features
-
-### Version 3.0 (Future)
-- [ ] AI-powered vulnerability detection
-- [ ] Machine learning payload generation
-- [ ] Advanced reporting dashboard
-- [ ] Integration with bug bounty platforms
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -505,32 +462,6 @@ Contributions are welcome! Here's how you can help:
 ### Code of Conduct
 
 Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Beast Scanner
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
 
 ---
 
@@ -641,100 +572,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
-
-### 📄 requirements.txt
-
-```txt
-requests>=2.28.0
-beautifulsoup4>=4.11.0
-dnspython>=2.2.0
-urllib3>=1.26.0
-colorama>=0.4.5
-```
-
-### 📄 .gitignore
-
-```gitignore
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-ENV/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Logs and reports
-logs/
-reports/
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Environment
-.env
-.env.local
-*.pem
-*.key
-```
-
-### 📄 CONTRIBUTING.md
-
-```markdown
-# Contributing to Beast Scanner
-
-Thank you for your interest in contributing!
-
-## How to Contribute
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## Code Style
-
-- Follow PEP 8
-- Use meaningful variable names
-- Add comments for complex logic
-- Write docstrings for functions
-
-## Reporting Bugs
-
-Use GitHub Issues with:
-- Clear title
-- Steps to reproduce
-- Expected vs actual behavior
-- Screenshots if applicable
-```
-
----
-
-## 📁 Repository Structure
-
-```
-beast-scanner/
-├── beast_scanner.py
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-└── screenshots/
-    ├── dashboard.png
-    ├── scanner.png
-    ├── results.png
-    └── console.png
 ```
 
 This README provides a professional, comprehensive overview of your project that will look great on GitHub! 🚀
