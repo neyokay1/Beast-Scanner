@@ -43,7 +43,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/beast-scanner.git
+git clone https://github.com/rioo2005/Beast-Scanner.git
 
 # Navigate to directory
 cd beast-scanner
@@ -149,7 +149,7 @@ python beast_scanner.py
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/beast-scanner.git
+git clone https://github.com/rioo2005/Beast-Scanner.git
 
 # Change directory
 cd beast-scanner
@@ -163,7 +163,7 @@ python beast_scanner.py
 
 ### Method 2: Download ZIP
 
-1. Download the ZIP file from the [Releases](https://github.com/yourusername/beast-scanner/releases) page
+1. Download the ZIP file from the [Releases](https://github.com/rioo2005/Beast-Scanner.git) page
 2. Extract the contents
 3. Open terminal in the extracted folder
 4. Run `pip install -r requirements.txt`
@@ -188,7 +188,7 @@ colorama>=0.4.5
 
 ```powershell
 # Using PowerShell
-git clone https://github.com/yourusername/beast-scanner.git
+git clone https://github.com/rioo2005/Beast-Scanner.git
 cd beast-scanner
 pip install -r requirements.txt
 python beast_scanner.py
@@ -203,7 +203,7 @@ python beast_scanner.py
 # Debian/Ubuntu
 sudo apt update
 sudo apt install python3 python3-pip python3-tk git
-git clone https://github.com/yourusername/beast-scanner.git
+git clone https://github.com/rioo2005/Beast-Scanner.git
 cd beast-scanner
 pip3 install -r requirements.txt
 python3 beast_scanner.py
@@ -217,7 +217,7 @@ python3 beast_scanner.py
 ```bash
 # Using Homebrew
 brew install python3 python-tk git
-git clone https://github.com/yourusername/beast-scanner.git
+git clone https://github.com/rioo2005/Beast-Scanner.git
 cd beast-scanner
 pip3 install -r requirements.txt
 python3 beast_scanner.py
