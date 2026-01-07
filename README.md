@@ -380,29 +380,6 @@ proxy = "socks5://127.0.0.1:9050"  # Tor
 
 ---
 
-## 📚 Documentation
-
-### Project Structure
-
-```
-beast-scanner/
-├── 📄 beast_scanner.py      # Main application
-├── 📄 requirements.txt      # Dependencies
-├── 📄 README.md            # Documentation
-├── 📄 LICENSE              # MIT License
-├── 📁 screenshots/         # Screenshot images
-│   ├── dashboard.png
-│   ├── scanner.png
-│   ├── results.png
-│   └── console.png
-├── 📁 payloads/           # Custom payload files
-│   ├── sql.txt
-│   ├── xss.txt
-│   └── lfi.txt
-├── 📁 reports/            # Generated reports
-└── 📁 logs/               # Scan logs
-```
-
 ### Class Reference
 
 | Class | Description |
@@ -543,35 +520,3 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 </div>
 ```
-
----
-
-## Additional Files to Create
-
-### 📄 LICENSE
-
-```
-MIT License
-
-Copyright (c) 2024 Beast Scanner
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-This README provides a professional, comprehensive overview of your project that will look great on GitHub! 🚀
