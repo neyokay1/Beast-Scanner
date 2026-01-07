@@ -1,6 +1,5 @@
-# BEAST SCANNER - GitHub README.md
+# BEAST SCANNER
 
-```markdown
 <div align="center">
 
 ![Beast Scanner Banner](https://img.shields.io/badge/BEAST-SCANNER-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white)
