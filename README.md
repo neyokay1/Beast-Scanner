@@ -393,55 +393,6 @@ proxy = "socks5://127.0.0.1:9050"  # Tor
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-### How to Contribute
-
-1. **Fork the Repository**
-   ```bash
-   git fork https://github.com/yourusername/beast-scanner.git
-   ```
-
-2. **Create a Branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-
-3. **Make Changes**
-   - Write clean, documented code
-   - Follow PEP 8 style guidelines
-   - Add tests if applicable
-
-4. **Commit Changes**
-   ```bash
-   git commit -m "Add: Amazing new feature"
-   ```
-
-5. **Push to Branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-
-6. **Open Pull Request**
-   - Describe your changes
-   - Reference any related issues
-
-### Contribution Guidelines
-
-- 📝 Follow the existing code style
-- 📚 Update documentation as needed
-- 🧪 Test your changes thoroughly
-- 💬 Write meaningful commit messages
-- 🔍 Check for existing issues before creating new ones
-
-### Code of Conduct
-
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
-
----
-
 ## ⚠️ Disclaimer
 
 <div align="center">
