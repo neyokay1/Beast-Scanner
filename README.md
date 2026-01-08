@@ -273,11 +273,6 @@ python beast_scanner.py --target https://example.com
 
 <img width="1397" height="918" alt="image" src="https://github.com/user-attachments/assets/3178a992-2f33-4397-b75b-810c2230ef76" />
 
-
-</div>
-
-> **Note:** To add screenshots, create a `screenshots` folder and add your images.
-
 ---
 
 ## 🔍 Scan Modules
